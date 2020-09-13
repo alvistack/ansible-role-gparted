@@ -4,6 +4,8 @@
 
 ### Major Changes
 
+  - Import Yum repo GPG key manually
+
 ## 4.5.0 - 2020-09-03
 
   - Ininitial release for Ansible 2.10 or higher
