@@ -1,6 +1,6 @@
 # Ansible Role for GParted
 
-[![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-gparted.svg)](https://travis-ci.com/alvistack/ansible-role-gparted)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-gparted/master)](https://gitlab.com/alvistack/ansible-role-gparted/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-gparted.svg)](https://github.com/alvistack/ansible-role-gparted/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-gparted.svg)](https://github.com/alvistack/ansible-role-gparted/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.gparted-blue.svg)](https://galaxy.ansible.com/alvistack/gparted)
