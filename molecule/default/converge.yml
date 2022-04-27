@@ -20,5 +20,5 @@
   tasks:
     - name: include role
       ansible.builtin.include_role:
-        name: gparted
-      tags: gparted
+        name: alvistack.gparted
+      tags: alvistack.gparted
