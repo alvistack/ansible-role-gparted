@@ -20,6 +20,7 @@
   become: true
   tasks:
     - name: which gparted
-      ansible.builtin.command: which gparted
+      ansible.builtin.command:
+        cmd: which gparted
       register: result
       changed_when: result is not succeeded
